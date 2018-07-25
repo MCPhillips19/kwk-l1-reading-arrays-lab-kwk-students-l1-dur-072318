@@ -35,5 +35,5 @@ fourth_student_by_index
 last_student_by_index
 first_student_by_method
 last_student_by_method
-puts first_second_and_third_students
+print first_second_and_third_students
 
